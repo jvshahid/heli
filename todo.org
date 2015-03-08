@@ -1,0 +1,12 @@
+* What is this document
+
+This document contains the stories to get this project done
+
+** Stories
+
+1. [ ] see if we can use the cc2541 sensor tag instead of buying a new
+   BT module (1 pts)
+2. [ ] Got a BLE channel between the MCU and the comp. (2 pts)
+3. [ ] Get some reading from the accelerometer, e.g. speed, tilt and
+   distance traveled (2 pts)
+4. [ ] Wire up the microcontroller to the board (2 pts)

@@ -1,0 +1,7 @@
+*~
+build-uno/
+TAGS
+.classpath
+.project
+.settings/
+java/bin/
